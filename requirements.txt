@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+google-generativeai
+python-dotenv
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+webdriver-manager
+pymupdf
