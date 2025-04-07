@@ -13,3 +13,5 @@ How to Start Using the Program:
 11. Create a new Jobright Account using Email and Password not via google or any other SSH option.
 12. Copy your jobright email and password in the .env file.
 13. Run -> python main.py on the terminal in the same folder.
+14. Open the sheets to see how many jobs and its information is uploaded on the sheets.
+15. 
